@@ -1,2 +1,2 @@
 Hello
-students 30%
+students 70%
